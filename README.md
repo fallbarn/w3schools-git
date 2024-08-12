@@ -10,3 +10,5 @@ It now includes steps for GitHub.
 
 This is a reset change
 
+Second reset change.
+
